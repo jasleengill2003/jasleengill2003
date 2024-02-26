@@ -1,4 +1,4 @@
-### Hello, im Jasleen Gill, a third-year engineering student with a keen interest in machine learning, cybersecurity and cloud. I am highly motivated to expand my knowledge and skills in these fields. I am 6 times hackathon winner as well.
+### Hello, im Jasleen Gill, a third-year engineering student with an interest in machine learning, cybersecurity and cloud. I am highly motivated to expand my knowledge and skills in these fields. I am 6 times hackathon winner as well.
 
 ---
 
